@@ -1,0 +1,21 @@
+{
+  "name": "block-coding-platform",
+  "version": "0.1.0",
+  "description": "A Scratch-like, browser-based drag-and-drop block coding platform converting blocks to Python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified yet\" && exit 0"
+  },
+  "keywords": [
+    "blockly",
+    "python",
+    "education",
+    "drag-and-drop",
+    "scratch-like"
+  ],
+  "author": "chiraggoenka17512-coder",
+  "license": "MIT",
+  "dependencies": {
+    "blockly": "^13.4.0"
+  }
+}
